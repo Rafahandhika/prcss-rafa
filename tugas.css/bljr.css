@@ -1,0 +1,91 @@
+.jdl{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.jdl:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.home:active{
+    color: white;
+    background-color: yellow;
+}
+
+.pddk:active{
+    background-color: orange;
+}
+
+.contact:active{
+    background-color: blue;
+}
+
+.background{
+    background-image: url('download.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 747px;
+    font-variant: small-caps;
+    color: white;
+    text-decoration: underline;
+}
+
+.h1:hover{
+    background-color: black;
+}
+
+.IK1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.IK1:hover{
+    background-color: red;
+}
+
+.IK2{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.IK2:hover{
+    background-color: yellow;
+}
+
+.IK3{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.IK3:hover{
+    background-color: green;
+}
+
+.nama{
+    color: greenyellow;
+}
+
+.last{
+    text-align: center;
+}
+
+.last:hover{
+    background-color: blue;
+    padding: 10px;
+}
